@@ -489,7 +489,7 @@ assignments = {
       "title": "Homework 9 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-11-04T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2374220/submissions/new",
+      "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
     {
@@ -625,6 +625,20 @@ assignments = {
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-01T00:15:00",
       "link": "https://www.gradescope.com/courses/432158",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 5",
+      "course": "EPS 82-LEC-001",
+      "dueDate": "2022-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/432158/assignments/2397427/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 6",
+      "course": "EPS 82-LEC-001",
+      "dueDate": "2022-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/432158/assignments/2397428/submissions/new",
       "submitted": false
     }
   ],
