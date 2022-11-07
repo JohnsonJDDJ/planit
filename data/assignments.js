@@ -256,15 +256,15 @@ assignments = {
       "title": "HW 6 (Self-Grade)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-06T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2378514/submissions/146852156",
+      "submitted": true
     },
     {
       "title": "HW 6 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-06T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2378550/submissions/146852293",
+      "submitted": true
     },
     {
       "title": "HW 7 (Code)",
