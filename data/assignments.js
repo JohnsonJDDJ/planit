@@ -293,6 +293,13 @@ assignments = {
       "dueDate": "2022-11-21T13:59:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "HW 7 (Resubmission)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-21T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "EECS 126": [
@@ -645,15 +652,15 @@ assignments = {
       "title": "Assignment 5",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2397427/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/432158/assignments/2397427/submissions/147106936",
+      "submitted": true
     },
     {
       "title": "Assignment 6",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2397428/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/432158/assignments/2397428/submissions/147128383",
+      "submitted": true
     }
   ],
   "INDENG 151 ": [
