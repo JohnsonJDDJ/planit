@@ -516,7 +516,7 @@ assignments = {
     {
       "title": "Homework 11",
       "course": "EECS 126",
-      "dueDate": "2022-11-11T23:00:00",
+      "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
