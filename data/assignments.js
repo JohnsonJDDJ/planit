@@ -696,6 +696,13 @@ assignments = {
       "dueDate": "2022-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/432158/assignments/2434668/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "An Ocean Mustery: The Missing Catch",
+      "course": "EPS 82-LEC-001",
+      "dueDate": "2022-11-16T10:00:00",
+      "link": "https://www.gradescope.com/courses/432158/assignments/2438429/submissions/new",
+      "submitted": false
     }
   ],
   "INDENG 151 ": [
