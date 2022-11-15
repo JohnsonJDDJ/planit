@@ -701,8 +701,8 @@ assignments = {
       "title": "An Ocean Mustery: The Missing Catch",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-16T10:00:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2438429/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/432158/assignments/2438429/submissions/148878532",
+      "submitted": true
     },
     {
       "title": "EPS82 Mid Term 2 (Special BS)",
