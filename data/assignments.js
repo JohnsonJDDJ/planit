@@ -274,7 +274,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW7 (Written)",
+      "title": "HW 7 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-05T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2410855/submissions/146725739",
@@ -302,7 +302,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW8 (Written)",
+      "title": "HW 8 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2432359/submissions/148864929",
@@ -314,6 +314,13 @@ assignments = {
       "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2432685/submissions/148864777",
       "submitted": true
+    },
+    {
+      "title": "HW 9 (Written)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-22T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "EECS 126": [
