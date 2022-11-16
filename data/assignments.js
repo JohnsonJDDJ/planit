@@ -561,6 +561,13 @@ assignments = {
       "dueDate": "2022-11-18T23:00:00",
       "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
+    },
+    {
+      "title": "Lab 8 (.pdf)",
+      "course": "EECS 126",
+      "dueDate": "2022-11-22T23:00:00",
+      "link": "https://www.gradescope.com/courses/412456",
+      "submitted": false
     }
   ],
   "EPS 82-LEC-001": [
