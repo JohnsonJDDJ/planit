@@ -321,6 +321,13 @@ assignments = {
       "dueDate": "2022-11-22T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "HW 8 (Resubmission)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-30T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "EECS 126": [
@@ -761,6 +768,13 @@ assignments = {
       "dueDate": "2022-10-14T23:55:00",
       "link": "https://www.gradescope.com/courses/423307/assignments/2310253/submissions/140232501",
       "submitted": true
+    },
+    {
+      "title": "HW 4",
+      "course": "INDENG 151 ",
+      "dueDate": "2022-11-18T23:55:00",
+      "link": "https://www.gradescope.com/courses/423307",
+      "submitted": false
     }
   ]
 };
