@@ -323,6 +323,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "HW 9 (Code)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-22T22:59:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
+    },
+    {
       "title": "HW 8 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-30T23:00:00",
@@ -750,7 +757,7 @@ assignments = {
       "title": "EPS82 Mid Term 2 (Special BS)",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-16T23:30:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2438959/submissions/new",
+      "link": "https://www.gradescope.com/courses/432158",
       "submitted": false
     }
   ],
