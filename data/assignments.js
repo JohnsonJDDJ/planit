@@ -780,8 +780,8 @@ assignments = {
       "title": "HW 4",
       "course": "INDENG 151 ",
       "dueDate": "2022-11-18T23:55:00",
-      "link": "https://www.gradescope.com/courses/423307",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423307/assignments/2446424/submissions/149851388",
+      "submitted": true
     }
   ]
 };
