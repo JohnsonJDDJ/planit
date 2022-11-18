@@ -649,13 +649,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "EPS82 Mid Term 1 (Alternative Date DSP 150%)",
-      "course": "EPS 82-LEC-001",
-      "dueDate": "2022-09-29T11:15:00",
-      "link": "https://www.gradescope.com/courses/432158",
-      "submitted": false
-    },
-    {
       "title": "EPS82 Mid Term 1 (alternative date DSP 200%)",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-09-29T11:59:00",
