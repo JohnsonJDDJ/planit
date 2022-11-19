@@ -566,7 +566,7 @@ assignments = {
       "title": "Homework 11 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-11-18T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2415017/submissions/new",
+      "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
     {
@@ -736,7 +736,7 @@ assignments = {
       "title": "Assignment 5 (Late or DSP)",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2434668/submissions/new",
+      "link": "https://www.gradescope.com/courses/432158",
       "submitted": false
     },
     {
