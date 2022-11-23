@@ -605,6 +605,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 8 Self-grade",
+      "course": "EECS 126",
+      "dueDate": "2022-11-29T23:00:00",
+      "link": "https://www.gradescope.com/courses/412456/assignments/2443497/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 13",
       "course": "EECS 126",
       "dueDate": "2022-11-29T23:00:00",
@@ -771,7 +778,7 @@ assignments = {
       "title": "Cindy Cox \"The Shape of the Shell\" ",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2456060/submissions/new",
+      "link": "https://www.gradescope.com/courses/432158",
       "submitted": false
     }
   ],
