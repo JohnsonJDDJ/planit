@@ -815,8 +815,8 @@ assignments = {
       "title": "HW 5",
       "course": "INDENG 151 ",
       "dueDate": "2022-12-02T23:55:00",
-      "link": "https://www.gradescope.com/courses/423307",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423307/assignments/2455694/submissions/150802743",
+      "submitted": true
     }
   ]
 };
