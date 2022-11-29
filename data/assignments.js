@@ -638,6 +638,13 @@ assignments = {
       "dueDate": "2022-12-02T23:00:00",
       "link": "https://www.gradescope.com/courses/412456/assignments/2453030/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework 14",
+      "course": "EECS 126",
+      "dueDate": "2022-12-06T23:00:00",
+      "link": "https://www.gradescope.com/courses/412456",
+      "submitted": false
     }
   ],
   "EPS 82-LEC-001": [
