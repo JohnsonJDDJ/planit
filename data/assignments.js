@@ -629,8 +629,8 @@ assignments = {
       "title": "Homework 13",
       "course": "EECS 126",
       "dueDate": "2022-11-29T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/412456/assignments/2453029/submissions/151423147",
+      "submitted": true
     },
     {
       "title": "Homework 13 Self-grade",
