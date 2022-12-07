@@ -670,8 +670,15 @@ assignments = {
     {
       "title": "Lab 9 (.pdf)",
       "course": "EECS 126",
-      "dueDate": "2022-12-06T23:00:00",
+      "dueDate": "2022-12-07T23:00:00",
       "link": "https://www.gradescope.com/courses/412456",
+      "submitted": false
+    },
+    {
+      "title": "Lab 9 Self-grade",
+      "course": "EECS 126",
+      "dueDate": "2022-12-13T23:00:00",
+      "link": "https://www.gradescope.com/courses/412456/assignments/2466704/submissions/new",
       "submitted": false
     }
   ],
