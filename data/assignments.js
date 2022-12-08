@@ -361,8 +361,8 @@ assignments = {
       "title": "Final Project (Option 1)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-07T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2481837/submissions/153177880",
+      "submitted": true
     },
     {
       "title": "Final Project (Option 2)",
@@ -664,8 +664,8 @@ assignments = {
       "title": "Homework 13 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-12-02T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2453030/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/412456/assignments/2453030/submissions/153177929",
+      "submitted": true
     },
     {
       "title": "Homework 14",
