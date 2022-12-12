@@ -936,6 +936,13 @@ assignments = {
       "dueDate": "2022-12-02T23:55:00",
       "link": "https://www.gradescope.com/courses/423307/assignments/2455694/submissions/150802743",
       "submitted": true
+    },
+    {
+      "title": "Final Exam",
+      "course": "INDENG 151 ",
+      "dueDate": "2022-12-12T14:30:00",
+      "link": "https://www.gradescope.com/courses/423307/assignments/2502452/submissions/new",
+      "submitted": false
     }
   ]
 };
