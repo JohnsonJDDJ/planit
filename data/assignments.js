@@ -601,7 +601,7 @@ assignments = {
       "title": "Homework 9 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-11-04T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2374220/submissions/new",
+      "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
     {
@@ -622,7 +622,7 @@ assignments = {
       "title": "Homework 11 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-11-18T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2415017/submissions/new",
+      "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
     {
@@ -664,7 +664,7 @@ assignments = {
       "title": "Lab 8 Self-grade",
       "course": "EECS 126",
       "dueDate": "2022-11-29T23:00:00",
-      "link": "https://www.gradescope.com/courses/412456/assignments/2443497/submissions/new",
+      "link": "https://www.gradescope.com/courses/412456",
       "submitted": false
     },
     {
