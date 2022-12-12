@@ -848,8 +848,8 @@ assignments = {
       "title": "EPS82 Final Exam (200 pts, Regular Time) ",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-12-12T21:10:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2397434/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/432158/assignments/2397434/submissions/153939236",
+      "submitted": true
     },
     {
       "title": "Assignment 5 (Late or DSP)",
