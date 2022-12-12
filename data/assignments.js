@@ -847,7 +847,7 @@ assignments = {
     {
       "title": "EPS82 Final Exam (200 pts, Regular Time) ",
       "course": "EPS 82-LEC-001",
-      "dueDate": "2022-12-12T21:10:00",
+      "dueDate": "2022-12-12T21:30:00",
       "link": "https://www.gradescope.com/courses/432158/assignments/2397434/submissions/153939236",
       "submitted": true
     },
@@ -889,14 +889,14 @@ assignments = {
     {
       "title": "EPS82 Final Exam (200 pts, DSP 150 by permission only)",
       "course": "EPS 82-LEC-001",
-      "dueDate": "2022-12-12T22:45:00",
+      "dueDate": "2022-12-12T23:05:00",
       "link": "https://www.gradescope.com/courses/432158/assignments/2502362/submissions/new",
       "submitted": false
     },
     {
       "title": "EPS82 Final Exam (200 pts, DSP 200 by permission only)",
       "course": "EPS 82-LEC-001",
-      "dueDate": "2022-12-13T00:20:00",
+      "dueDate": "2022-12-13T00:40:00",
       "link": "https://www.gradescope.com/courses/432158/assignments/2502373/submissions/new",
       "submitted": false
     }
