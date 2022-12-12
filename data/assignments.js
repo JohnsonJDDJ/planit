@@ -941,7 +941,7 @@ assignments = {
       "title": "Final Exam",
       "course": "INDENG 151 ",
       "dueDate": "2022-12-12T14:30:00",
-      "link": "https://www.gradescope.com/courses/423307/assignments/2502452/submissions/new",
+      "link": "https://www.gradescope.com/courses/423307",
       "submitted": false
     }
   ]
