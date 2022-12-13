@@ -897,7 +897,7 @@ assignments = {
       "title": "EPS82 Final Exam (200 pts, DSP 200 by permission only)",
       "course": "EPS 82-LEC-001",
       "dueDate": "2022-12-13T00:40:00",
-      "link": "https://www.gradescope.com/courses/432158/assignments/2502373/submissions/new",
+      "link": "https://www.gradescope.com/courses/432158",
       "submitted": false
     }
   ],
