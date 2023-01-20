@@ -1,3 +1,4 @@
 assignments = {
-  "Econ 141": []
+  "Econ 141": [],
+  "Physics/Astron C161": []
 };
