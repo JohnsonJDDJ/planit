@@ -1,5 +1,13 @@
 assignments = {
-  "Econ 141": [],
+  "Econ 141": [
+    {
+      "title": "Problem Set 1",
+      "course": "Econ 141",
+      "dueDate": "2023-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/493498",
+      "submitted": false
+    }
+  ],
   "INFO 159/259": [
     {
       "title": "HW 1 Code",
