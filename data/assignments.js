@@ -5,15 +5,15 @@ assignments = {
       "title": "HW 1 Code",
       "course": "INFO 159/259",
       "dueDate": "2023-01-31T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2602709/submissions/157606724",
+      "submitted": true
     },
     {
       "title": "HW1 Test Set Predictions",
       "course": "INFO 159/259",
       "dueDate": "2023-01-31T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2602732/submissions/157606784",
+      "submitted": true
     }
   ],
   "Physics/Astron C161": [
