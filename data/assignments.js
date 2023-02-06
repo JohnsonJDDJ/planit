@@ -27,15 +27,15 @@ assignments = {
       "title": "HW2 code (ipynb)",
       "course": "INFO 159/259",
       "dueDate": "2023-02-08T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2629563/submissions/159717713",
+      "submitted": true
     },
     {
       "title": "HW2 writeup ",
       "course": "INFO 159/259",
       "dueDate": "2023-02-08T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2629587/submissions/159717770",
+      "submitted": true
     }
   ],
   "Physics/Astron C161": [
