@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2023-02-10T23:59:00",
       "link": "https://www.gradescope.com/courses/493498/assignments/2615271/submissions/158109395",
       "submitted": true
+    },
+    {
+      "title": "Problem Set 2",
+      "course": "Econ 141",
+      "dueDate": "2023-02-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/493498",
+      "submitted": false
     }
   ],
   "INFO 159/259": [
