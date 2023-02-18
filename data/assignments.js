@@ -85,8 +85,8 @@ assignments = {
       "title": "Problem Set #4",
       "course": "Physics/Astron C161",
       "dueDate": "2023-02-18T00:00:00",
-      "link": "https://www.gradescope.com/courses/500377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/500377/assignments/2662768/submissions/163000017",
+      "submitted": true
     }
   ]
 };
