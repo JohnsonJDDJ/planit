@@ -47,14 +47,14 @@ assignments = {
     {
       "title": "HW3 code (ipynb)",
       "course": "INFO 159/259",
-      "dueDate": "2023-02-21T23:59:00",
+      "dueDate": "2023-02-22T02:00:00",
       "link": "https://www.gradescope.com/courses/501270",
       "submitted": false
     },
     {
       "title": "HW3 writeup",
       "course": "INFO 159/259",
-      "dueDate": "2023-02-21T23:59:00",
+      "dueDate": "2023-02-22T02:00:00",
       "link": "https://www.gradescope.com/courses/501270",
       "submitted": false
     }
