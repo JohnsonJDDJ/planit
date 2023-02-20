@@ -48,15 +48,15 @@ assignments = {
       "title": "HW3 code (ipynb)",
       "course": "INFO 159/259",
       "dueDate": "2023-02-22T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2660761/submissions/163215064",
+      "submitted": true
     },
     {
       "title": "HW3 writeup",
       "course": "INFO 159/259",
       "dueDate": "2023-02-22T02:00:00",
-      "link": "https://www.gradescope.com/courses/501270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/501270/assignments/2660766/submissions/163214645",
+      "submitted": true
     }
   ],
   "Physics/Astron C161": [
