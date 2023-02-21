@@ -11,8 +11,8 @@ assignments = {
       "title": "Problem Set 2",
       "course": "Econ 141",
       "dueDate": "2023-02-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/493498",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/493498/assignments/2658023/submissions/163495839",
+      "submitted": true
     }
   ],
   "INFO 159/259": [
