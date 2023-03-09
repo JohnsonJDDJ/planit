@@ -1,4 +1,5 @@
 assignments = {
+  "CS 182/282A Internal": [],
   "Econ 141": [
     {
       "title": "Problem Set 1",
