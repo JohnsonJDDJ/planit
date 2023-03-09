@@ -1,5 +1,13 @@
 assignments = {
-  "CS 182/282A Internal": [],
+  "CS 182/282A Internal": [
+    {
+      "title": "Midterm Round 2 Debug",
+      "course": "CS 182/282A Internal",
+      "dueDate": "2023-03-11T12:00:00",
+      "link": "https://www.gradescope.com/courses/520522/assignments/2733970/submissions/new",
+      "submitted": false
+    }
+  ],
   "Econ 141": [
     {
       "title": "Problem Set 1",
