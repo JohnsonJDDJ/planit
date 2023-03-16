@@ -10,8 +10,8 @@ assignments = {
     {
       "title": "Midterm Round 3 Debug",
       "course": "CS 182/282A Internal",
-      "dueDate": "2023-03-11T12:00:00",
-      "link": "https://www.gradescope.com/courses/520522",
+      "dueDate": "2023-03-17T00:00:00",
+      "link": "https://www.gradescope.com/courses/520522/assignments/2747738/submissions/new",
       "submitted": false
     }
   ],
