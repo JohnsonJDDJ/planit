@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2023-03-11T12:00:00",
       "link": "https://www.gradescope.com/courses/520522",
       "submitted": false
+    },
+    {
+      "title": "Midterm Round 3 Debug",
+      "course": "CS 182/282A Internal",
+      "dueDate": "2023-03-11T12:00:00",
+      "link": "https://www.gradescope.com/courses/520522",
+      "submitted": false
     }
   ],
   "Econ 141": [
