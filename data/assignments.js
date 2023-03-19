@@ -18,8 +18,8 @@ assignments = {
       "title": "Midterm Final Round Debug",
       "course": "CS 182/282A Internal",
       "dueDate": "2023-03-19T00:00:00",
-      "link": "https://www.gradescope.com/courses/520522/assignments/2753350/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/520522/assignments/2753350/submissions/169360233",
+      "submitted": true
     }
   ],
   "Econ 141": [
