@@ -164,8 +164,8 @@ assignments = {
       "title": "Midterm Exam",
       "course": "Physics/Astron C161",
       "dueDate": "2023-03-23T02:00:00",
-      "link": "https://www.gradescope.com/courses/500377/assignments/2761400/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/500377/assignments/2761400/submissions/170194804",
+      "submitted": true
     }
   ]
 };
