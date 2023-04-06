@@ -108,6 +108,13 @@ assignments = {
       "dueDate": "2023-03-22T02:00:00",
       "link": "https://www.gradescope.com/courses/501270/assignments/2744993/submissions/169713052",
       "submitted": true
+    },
+    {
+      "title": "HW6",
+      "course": "INFO 159/259",
+      "dueDate": "2023-04-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/501270",
+      "submitted": false
     }
   ],
   "Physics/Astron C161": [
