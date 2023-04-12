@@ -112,7 +112,7 @@ assignments = {
     {
       "title": "HW6",
       "course": "INFO 159/259",
-      "dueDate": "2023-04-12T23:59:00",
+      "dueDate": "2023-04-13T02:00:00",
       "link": "https://www.gradescope.com/courses/501270/assignments/2804117/submissions/173740967",
       "submitted": true
     }
