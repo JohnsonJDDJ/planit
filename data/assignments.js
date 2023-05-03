@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2023-05-02T23:00:00",
       "link": "https://www.gradescope.com/courses/520522",
       "submitted": false
+    },
+    {
+      "title": "Final Exam Round 4 Debug",
+      "course": "CS 182/282A Internal",
+      "dueDate": "2023-05-04T23:00:00",
+      "link": "https://www.gradescope.com/courses/520522",
+      "submitted": false
     }
   ],
   "Econ 141": [
